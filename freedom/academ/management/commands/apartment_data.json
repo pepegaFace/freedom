@@ -1,0 +1,128 @@
+[
+    {
+        "section": 1,
+        "number": 1,
+        "apartment_type": 2,
+        "area": "71.05",
+        "delta": 4
+    },
+    {
+        "section": 1,
+        "number": 2,
+        "apartment_type": 1,
+        "area": "42.84",
+        "delta": 4
+    },
+    {
+        "section": 1,
+        "number": 3,
+        "apartment_type": 1,
+        "area": "44.20",
+        "delta": 4
+    },
+        {
+        "section": 1,
+        "number": 4,
+        "apartment_type": 2,
+        "area": "67.35",
+        "delta": 4
+    },
+    {
+        "section": 2,
+        "number": 45,
+        "apartment_type": 3,
+        "area": "84.15",
+        "delta": 5
+    },
+    {
+        "section": 2,
+        "number": 46,
+        "apartment_type": 1,
+        "area": "38.79",
+        "delta": 5
+    },
+        {
+        "section": 2,
+        "number": 47,
+        "apartment_type": 3,
+        "area": "90.61",
+        "delta": 5
+    },
+    {
+        "section": 2,
+        "number": 48,
+        "apartment_type": 1,
+        "area": "40.17",
+        "delta": 5
+    },
+    {
+        "section": 2,
+        "number": 49,
+        "apartment_type": 3,
+        "area": "79.91",
+        "delta": 5
+    },
+    {
+        "section": 3,
+        "number": 100,
+        "apartment_type": 2,
+        "area": "55.51",
+        "delta": 9
+    },
+    {
+        "section": 3,
+        "number": 101,
+        "apartment_type": 2,
+        "area": "69.36",
+        "delta": 9
+    },
+    {
+        "section": 3,
+        "number": 102,
+        "apartment_type": 5,
+        "area": "31.96",
+        "delta": 9
+    },
+        {
+        "section": 3,
+        "number": 103,
+        "apartment_type": 1,
+        "area": "42.80",
+        "delta": 9
+    },
+    {
+        "section": 3,
+        "number": 104,
+        "apartment_type": 1,
+        "area": "43.52",
+        "delta": 9
+    },
+    {
+        "section": 3,
+        "number": 105,
+        "apartment_type": 1,
+        "area": "38.23",
+        "delta": 9
+    },
+        {
+        "section": 3,
+        "number": 106,
+        "apartment_type": 2,
+        "area": "71.18",
+        "delta": 9
+    },
+    {
+        "section": 3,
+        "number": 107,
+        "apartment_type": 2,
+        "area": "70.06",
+        "delta": 9
+    },
+    {
+        "section": 3,
+        "number": 108,
+        "apartment_type": 1,
+        "area": "39.10",
+        "delta": 9
+    }
+]

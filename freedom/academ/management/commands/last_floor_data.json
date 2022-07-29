@@ -1,0 +1,98 @@
+[
+  {
+      "area": "80.93",
+      "apartment_type": 2,
+      "section": 1,
+      "number": 41
+    },
+    {
+      "area": "42.84",
+      "apartment_type": 1,
+      "section": 1,
+      "number": 42
+    },
+    {
+      "area": "53.73",
+      "apartment_type": 1,
+      "section": 1,
+      "number": 43
+    },
+    {
+      "area": "72.89",
+      "apartment_type": 2,
+      "section": 1,
+      "number": 44
+    },
+      {
+      "area": "100.69",
+      "apartment_type": 3,
+      "section": 2,
+      "number": 95
+    },
+      {
+      "area": "51.02",
+      "apartment_type": 1,
+      "section": 2,
+      "number": 96
+    },
+      {
+      "area": "101.55",
+      "apartment_type": 3,
+      "section": 2,
+      "number": 97
+    },
+      {
+      "area": "40.17",
+      "apartment_type": 1,
+      "section": 2,
+      "number": 98
+    },
+    {
+      "area": "88.44",
+      "apartment_type": 3,
+      "section": 2,
+      "number": 99
+    },
+      {
+      "area": "64.01",
+      "apartment_type": 2,
+      "section": 3,
+      "number": 208
+    },
+      {
+      "area": "77.45",
+      "apartment_type": 2,
+      "section": 3,
+      "number": 209
+    },
+      {
+      "area": "31.96",
+      "apartment_type": 5,
+      "section": 3,
+      "number": 210
+    },
+      {
+      "area": "54.46",
+      "apartment_type": 1,
+      "section": 3,
+      "number": 211
+    },
+      {
+      "area": "128.85",
+      "apartment_type": 4,
+      "section": 3,
+      "number": 212
+    },
+      {
+      "area": "232.94",
+      "apartment_type": 4,
+      "section": 3,
+      "number": 213
+    },
+      {
+      "area": "46.61",
+      "apartment_type": 1,
+      "section": 3,
+      "number": 214
+    }
+]

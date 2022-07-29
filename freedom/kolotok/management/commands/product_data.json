@@ -1,0 +1,83 @@
+[
+    {
+      "name": "что то ламинат",
+      "article": "string",
+      "brand": "string",
+      "size": "string",
+      "product_class": "string",
+      "fire_class": "string"
+    },
+    {
+      "name": "что то входные двери",
+      "series": "fefww",
+      "loops": 2,
+      "locks": "fwfw",
+      "material": "wfwf",
+      "blade_thickness": "wfwfw",
+      "color": "wfww"
+    },
+    {
+      "name": "что то керамическая плитка",
+      "series": "string",
+      "brand": "string",
+      "article": "string",
+      "size": "string",
+      "purpose_of_goods": "string",
+      "color": "string"
+    },
+    {
+      "name": "что то люстры",
+      "supplier": "string",
+      "article": "string",
+      "brand": "string",
+      "collection": "string",
+      "style": "string",
+      "color": "string",
+      "base_type": "string",
+      "count_lamp": 0,
+      "max_lamp_power": 0,
+      "height": 0,
+      "diameter": 0,
+      "descriptions": "string"
+    },
+    {
+      "name": "что то виниловые обои",
+      "article": "string",
+      "series": "string",
+      "product_class": "string",
+      "docking_method": "string",
+      "size": "string",
+      "drawing": "string",
+      "descriptions": "string"
+    },
+    {
+      "name": "что то ванны",
+      "supplier": "string",
+      "article": "string",
+      "brand": "string",
+      "color": "string",
+      "size": "string",
+      "material": "string",
+      "power": "string",
+      "descriptions": "string"
+      "package": "string"
+    },
+    {
+      "name": "что то кровати",
+      "supplier": "string",
+      "article": "string",
+      "brand": "string",
+      "color": "string",
+      "size": "string",
+      "material": "string",
+      "power": "string",
+      "descriptions": "string",
+      "package": "string"
+    },
+    {
+      "name": "что то статуэтки",
+      "voltage": "string",
+      "size": "string",
+      "descriptions": "string"
+    }
+]

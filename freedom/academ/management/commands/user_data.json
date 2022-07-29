@@ -1,0 +1,20 @@
+[
+  {
+    "email": "manager@manager.com",
+    "username": "manager",
+    "password": "q12w34e56r78",
+    "role": "Manager"
+  },
+  {
+    "email": "crmadmin@crmadmin.com",
+    "username": "crmadmin",
+    "password": "q12w34e56r78",
+    "role": "AdminCRM"
+  },
+  {
+    "email": "user@user.com",
+    "username": "user",
+    "password": "q12w34e56r78",
+    "role": "DefaultUser"
+  }
+]
